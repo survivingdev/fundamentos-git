@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "checkpoint_id": "CP-0001",
+  "previous_checkpoint": null,
+  "created_at": "2026-10-25T01:59:14-03:00",
+  "timezone": "America/Sao_Paulo",
+  "kind": "continuidade operacional; nao e marco de competencia",
+  "created_by": "mentor com IA; tarefa operacional autorizada",
+  "repository": "survivingdev/fundamentos-git",
+  "branch": "main",
+  "parent_commit": "cda0f3326a28a901cc366e74b0eda34888ee6c9e",
+  "version_identity": "Commit Git que contem este manifesto; nao armazenado dentro de si.",
+  "state": {
+    "stage": "Etapa 7",
+    "phase": "F0",
+    "session": "02",
+    "step": "14",
+    "task_ids_in_progress": [
+      "T001",
+      "T002"
+    ],
+    "task_ids_planned": [
+      "T003",
+      "T006",
+      "T004",
+      "T005"
+    ],
+    "studied_with_assistance": [
+      "C01",
+      "C06"
+    ],
+    "introduced_scope": {
+      "C21": "privacidade do email"
+    },
+    "independently_validated_competencies": [],
+    "completed_portfolio_projects": [],
+    "certifications_obtained_in_roadmap": [],
+    "approved_milestones": [],
+    "next_employability_milestone": "M1, pendente",
+    "next_action": "Receber duas respostas pessoais de C06 com ajuda declarada; avaliar antes da variacao pratica.",
+    "unknown": [
+      "estado local atual",
+      "upstream local atual",
+      "backup local",
+      "duracao real",
+      "autonomia e retencao"
+    ],
+    "learning_status_changed_by_this_checkpoint": false
+  },
+  "evidence": {
+    "exercise_commits": [
+      "bea15d9c0867cab84899848c636bd9fb842a90a7",
+      "cda0f3326a28a901cc366e74b0eda34888ee6c9e"
+    ],
+    "preserved_root_readme_blob": "4e1ff54300b87f188ad9de9749403010d8fc4e96",
+    "source_files_recovered": 13,
+    "private_execution_workbook_changed": false
+  },
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 6220,
+      "sha256": "b93e81ebda99d9f9c59ef3e86801fc0acff13142ad2a7cfb422862886a665815"
+    },
+    {
+      "path": "CERTIFICACOES.md",
+      "size_bytes": 3369,
+      "sha256": "dee2af1f87fffe090c4284b444d76571b73fea4ce94214e743492f10c7793943"
+    },
+    {
+      "path": "COMPETENCIAS.md",
+      "size_bytes": 6769,
+      "sha256": "3a9e1246d14ae5ae831200025c77b1eaf16a186ef1133ea962d3e7abe07ba8d8"
+    },
+    {
+      "path": "DECISOES.md",
+      "size_bytes": 5771,
+      "sha256": "e756cf12f83fa7437396dbcd4b942884d6633c00978ae13ea9f7374d7a75abc6"
+    },
+    {
+      "path": "FONTES.md",
+      "size_bytes": 2378,
+      "sha256": "86a2f398a25a1f8db3b903e2e466009085cd0521e1ef60621cea628ed7889836"
+    },
+    {
+      "path": "HANDOFF.md",
+      "size_bytes": 6428,
+      "sha256": "28bc752890c87440563db6e2b5a6a57b92137de61219e102bd5035ba1bf2d5a5"
+    },
+    {
+      "path": "PORTFOLIO.md",
+      "size_bytes": 4766,
+      "sha256": "d940676cc74f9165f129263ec14872275539effe8378ea8ee0f590eabcb78e15"
+    },
+    {
+      "path": "PROGRESSO.md",
+      "size_bytes": 7169,
+      "sha256": "4a9b674aafd85d388ba523b1149a13369e6466824f1058920a358f4bbac4051a"
+    },
+    {
+      "path": "ROADMAP.md",
+      "size_bytes": 7923,
+      "sha256": "27a38c7eefa7cca0431d826651af5f19531fd25baa4060ccac6b43214aa22e7c"
+    },
+    {
+      "path": "scripts/verificar_checkpoint.py",
+      "size_bytes": 2020,
+      "sha256": "245f1347df07673a5a18bf6b84382ba989207de89c59f25c5f7548faaf344f9b"
+    }
+  ],
+  "verification": {
+    "local_command": "python docs/carreira/scripts/verificar_checkpoint.py docs/carreira/checkpoints/CP-0001.json",
+    "scope": "Integridade dos bytes listados; nao avalia a veracidade de toda declaracao nem competencias.",
+    "remote_rule": "Conferir HEAD esperado, commit/parent e blobs da arvore apos atualizar a referencia."
+  },
+  "privacy_scope": "Somente estado de aprendizagem e referencias ja publicas; fontes, caminhos e restricoes pessoais preservados no handoff privado."
+}
