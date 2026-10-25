@@ -4,7 +4,7 @@ Estas instruções aplicam-se à documentação de Carreira Data & AI em docs/ca
 
 ## Aprendizagem e evidência
 
-O mentor pode executar pesquisa, organização, revisão, verificações e documentação autorizadas. o participante realiza o raciocínio, a implementação fundamental, a conferência e a defesa das avaliações pessoais. Não resolver automaticamente um exercício destinado a medir autonomia. Registrar a ajuda; uma solução fornecida converte a tentativa em prática assistida.
+O mentor pode executar pesquisa, organização, revisão, verificações e documentação autorizadas. O participante realiza o raciocínio, a implementação fundamental, a conferência e a defesa das avaliações pessoais. Não resolver automaticamente um exercício destinado a medir autonomia. Registrar a ajuda; uma solução fornecida converte a tentativa em prática assistida.
 
 Para cada checkpoint pedagógico: competência/escopo, objetivo observável, exercício curto, critérios e ajuda permitida. Oferecer explicação e exemplo progressivo quando necessário; colher tentativa antes de solução completa. Se houver ensino socrático intensivo, sugerir chat dedicado com contexto e devolver o resultado ao registro central. Não exigir troca de chat para duas perguntas simples.
 
@@ -12,7 +12,7 @@ Não atribuir domínio por publicação, tempo, curso, exame ou código de IA. U
 
 ## Fechamento de cada sessão relevante
 
-1. Registrar em PROGRESSO.md: data America/Sao_o participante, tarefa/escopo, tentativa, resultado, evidência, ajuda, duração informada e pendência. Se desconhecido, indicar desconhecido; não criar nota zero.
+1. Registrar em PROGRESSO.md: data America/Sao_Paulo, tarefa/escopo, tentativa, resultado, evidência, ajuda, duração informada e pendência. Se desconhecido, indicar desconhecido; não criar nota zero.
 2. Atualizar HANDOFF.md: etapa/subetapa, concluído, em andamento, próxima ação específica, evidências/versões e limites. Atualizar os demais registros apenas nas partes que realmente mudaram. Atualizar a planilha privada quando houver nova hora, avaliação, tarefa ou candidatura pertencente a ela; não converter todos os arquivos legados em diários duplicados.
 3. Para encerramento de sessão ou marco significativo, reservar CP sequencial, sem sobrescrever manifesto anterior. Se a sessão for longa, salvar também antes de operação extensa ou mudança de contexto. Uma interrupção sem salvamento recupera somente o último checkpoint persistido.
 4. Gerar checkpoints/CP-nnnn.json com data/fuso, checkpoint anterior, HEAD remoto esperado, resumo de estado, evidências e arquivos com tamanho/SHA-256. Registrar fontes externas com identidade/versão/hash quando houver alteração ou nova dependência. Não colocar o SHA do próprio commit dentro do manifesto; a versão é o commit que o contém.

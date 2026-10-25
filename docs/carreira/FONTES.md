@@ -1,6 +1,6 @@
 # Fontes públicas e proveniência
 
-**Referência:** 25/10/2026 · CP-0001.
+**Referência:** 25/10/2026 · CP-0002.
 
 Este índice contém somente referências públicas. O mapa completo de treze documentos anteriores, com identificadores, versões e hashes, permanece no handoff privado do titular. A documentação pública preserva o estado necessário à próxima atividade e aponta para evidências já públicas, sem expor esses identificadores.
 
@@ -12,7 +12,7 @@ Este índice contém somente referências públicas. O mapa completo de treze do
 | Primeiro commit corrigido | [bea15d9](https://github.com/survivingdev/fundamentos-git/commit/bea15d9c0867cab84899848c636bd9fb842a90a7) |
 | Segundo commit corrigido | [cda0f33](https://github.com/survivingdev/fundamentos-git/commit/cda0f3326a28a901cc366e74b0eda34888ee6c9e) |
 | README da base | [Versão anterior ao checkpoint](https://github.com/survivingdev/fundamentos-git/blob/cda0f3326a28a901cc366e74b0eda34888ee6c9e/README.md) |
-| Continuidade | checkpoints/CP-0001.json, no commit correspondente |
+| Continuidade | checkpoints/CP-0002.json e histórico CP-0001, nos commits correspondentes |
 
 ## Referências técnicas do procedimento operacional
 

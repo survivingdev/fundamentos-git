@@ -1,6 +1,6 @@
 # Carreira Data & AI — planejamento mestre
 
-**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0001.
+**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0002.
 
 
 Objetivo: construir empregabilidade em dados, automação e inteligência artificial por competência demonstrável, com projetos próprios e candidaturas compatíveis durante a formação. Esta é a visão operacional do plano aprovado nas Etapas 0–6. As fontes públicas estão em [FONTES.md](FONTES.md). O planejamento detalhado permanece no registro privado de retomada.
@@ -18,7 +18,7 @@ Não há reinício por troca de conversa. Etapas 0–6 organizam o planejamento;
 
 | Fase | Entrega e foco | Critério principal | Estado em CP-0001 |
 | --- | --- | --- | --- |
-| F0 | Ambiente, arquivos, terminal, Git e documentação | Executar e explicar tarefa; identificar entrada/saída, corrigir erro simples, registrar/sincronizar mudança e reproduzir | Em andamento; checkpoint conceitual de C06 pendente |
+| F0 | Ambiente, arquivos, terminal, Git e documentação | Executar e explicar tarefa; identificar entrada/saída, corrigir erro simples, registrar/sincronizar mudança e reproduzir | Em andamento; exemplos conceituais de C06 aplicados com apoio; preparar prática própria |
 | F1 | P01-A: análise inicial de desempenho comercial | Fonte/grão, agregação/JOIN, três indicadores, visual simples, conferência, conclusão e limite | Planejada; prepara M1 |
 | F2 | P01-B: caso completo SQL/BI | Modelo e regras justificados; SQL/DAX reconciliados, filtros testados, defesa e variação | Planejada; prepara M2 SQL/BI |
 | F3 | P01-C e exercício delimitado de API | Python compreendido, testes úteis, reconciliação com SQL, entrada inesperada e diagnóstico | Planejada; pode se alternar com F2 se houver motivo |

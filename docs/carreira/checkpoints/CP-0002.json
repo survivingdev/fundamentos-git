@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "checkpoint_id": "CP-0002",
+  "previous_checkpoint": "CP-0001",
+  "previous_checkpoint_commit": "a74c41fd69896b2ef9cd756c2bbeca40b021b76b",
+  "created_at": "2026-10-25T09:29:41-03:00",
+  "timezone": "America/Sao_Paulo",
+  "kind": "continuidade da revisao conceitual com apoio; nao e marco de competencia",
+  "created_by": "mentor com IA; documentacao autorizada",
+  "repository": "survivingdev/fundamentos-git",
+  "branch": "main",
+  "parent_commit": "a74c41fd69896b2ef9cd756c2bbeca40b021b76b",
+  "version_identity": "Commit Git que contem este manifesto; nao armazenado dentro de si.",
+  "state": {
+    "stage": "Etapa 7",
+    "phase": "F0",
+    "session": "02",
+    "step": "preparar variacao pratica de C06",
+    "task_ids_in_progress": [
+      "T001",
+      "T002"
+    ],
+    "studied_with_assistance": [
+      "C01",
+      "C06"
+    ],
+    "guided_concept_applications": [
+      "dois commits enviados em um push",
+      "email A/B preservado conforme criacao do commit"
+    ],
+    "independently_validated_competencies": [],
+    "completed_portfolio_projects": [],
+    "certifications_obtained_in_roadmap": [],
+    "approved_milestones": [],
+    "next_employability_milestone": "M1, pendente",
+    "next_action": "Receber status/branch, remoto e log locais; preparar sincronizacao e depois pequena variacao pessoal.",
+    "unknown": [
+      "estado e upstream locais atuais",
+      "backup local",
+      "duracao real",
+      "implementacao independente",
+      "transferencia e retencao"
+    ]
+  },
+  "evidence": {
+    "exercise_commits": [
+      "bea15d9c0867cab84899848c636bd9fb842a90a7",
+      "cda0f3326a28a901cc366e74b0eda34888ee6c9e"
+    ],
+    "preserved_root_readme_blob": "4e1ff54300b87f188ad9de9749403010d8fc4e96",
+    "assessment_mode": "aplicacao guiada, sem escore formal novo"
+  },
+  "privacy_scope": "Somente estado de aprendizagem e referencias publicas; transcricoes, caminhos e fontes privados no handoff completo.",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 6211,
+      "sha256": "8280249fff502d10f756f6474ed02681ff8a3bcc91ae979b505a012f200b8db4"
+    },
+    {
+      "path": "CERTIFICACOES.md",
+      "size_bytes": 3369,
+      "sha256": "dee2af1f87fffe090c4284b444d76571b73fea4ce94214e743492f10c7793943"
+    },
+    {
+      "path": "COMPETENCIAS.md",
+      "size_bytes": 7414,
+      "sha256": "09298c396310d0bf16f97e60c7bb8e7590f05e938f9ba8a2ca8954e42106f39d"
+    },
+    {
+      "path": "DECISOES.md",
+      "size_bytes": 5771,
+      "sha256": "e756cf12f83fa7437396dbcd4b942884d6633c00978ae13ea9f7374d7a75abc6"
+    },
+    {
+      "path": "FONTES.md",
+      "size_bytes": 2402,
+      "sha256": "1946c6bb3a03a0ee166414a1ae03e6557a9a0685a99250c28656fb196be48891"
+    },
+    {
+      "path": "HANDOFF.md",
+      "size_bytes": 7107,
+      "sha256": "bcfdc1380647f85a27da1d2a5f4bbe5cd46ed0c5cc644f41e7ee99382037e43a"
+    },
+    {
+      "path": "PORTFOLIO.md",
+      "size_bytes": 4766,
+      "sha256": "d940676cc74f9165f129263ec14872275539effe8378ea8ee0f590eabcb78e15"
+    },
+    {
+      "path": "PROGRESSO.md",
+      "size_bytes": 8296,
+      "sha256": "1d0bde5e7b123a8b4ba1435dcd78d3cfd0b6506965467e9a9841b4c750477180"
+    },
+    {
+      "path": "ROADMAP.md",
+      "size_bytes": 7961,
+      "sha256": "f0bf91a99d42d92d2e5f039492bd20133f39ea77f0c71c97d5e76546189bcf7f"
+    },
+    {
+      "path": "scripts/verificar_checkpoint.py",
+      "size_bytes": 2020,
+      "sha256": "245f1347df07673a5a18bf6b84382ba989207de89c59f25c5f7548faaf344f9b"
+    }
+  ],
+  "verification": {
+    "local_command": "python docs/carreira/scripts/verificar_checkpoint.py docs/carreira/checkpoints/CP-0002.json",
+    "scope": "Integridade de arquivos publicos; nao comprova competencia independente."
+  }
+}

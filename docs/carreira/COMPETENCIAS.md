@@ -1,6 +1,6 @@
 # Competências e evidências de aprendizagem
 
-**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0001.
+**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0002.
 
 
 Nenhuma competência foi declarada dominada ou demonstrada de forma independente neste acompanhamento. C01/C06 tiveram prática guiada; C21 foi introduzida em um recorte. A geração destes documentos pelo mentor não comprova competência do participante.
@@ -50,23 +50,22 @@ Os pré-requisitos delimitam o mínimo da atividade, não uma sequência de trin
 | C06: fluxo de alteração e publicação | Explicar a experiência local/remota e justificar dados de autoria | Responder às duas questões atuais; após feedback, realizar mudança inédita, revisar, registrar e conferir | Precisão, justificativa, clareza e ajuda declarada; prática e validação avaliadas separadamente |
 | C21: recorte de privacidade | Identificar o que se torna público e justificar a proteção escolhida | Explicar a decisão real e depois analisar cenário novo de publicação | Identificação dos dados, justificativa e proteção adequada ao cenário; não avalia toda a governança |
 
-## Avaliação atual C06-CP01
+## C06 — recorte conceitual acompanhado e próxima prática
 
-Situação: **aguarda a tentativa do participante**. Responder com as próprias palavras e informar consulta ou ajuda utilizada:
+**Recorte conceitual:** exemplos de envio de dois commits e de autoria/e-mail A/B aplicados corretamente depois da explicação e do feedback do mentor. A ajuda é explícita. O resultado permite preparar a prática delimitada; não aprova a competência inteira.
 
-1. Qual é a diferença entre `commit` e `push`? Relacione ao exercício realizado.
-2. Por que mudar `user.email` não bastava para corrigir os dois commits já existentes quando o GitHub bloqueou o envio?
-
-Não antecipar respostas-modelo. Avaliar primeiro a tentativa, oferecer pista proporcional à lacuna e então uma variação prática diferente. Se o mentor fornecer solução completa, registrar prática assistida e avaliar autonomia em outra variação.
-
-| Dimensão | Evidência atual de avaliação | Escore |
+| Dimensão | Evidência atual | Decisão |
 | --- | --- | --- |
-| Conceito | Respostas não recebidas | Não avaliado |
-| Implementação | Existe execução guiada; variação independente não realizada | Não avaliado |
-| Depuração | Recuperação guiada; diagnóstico independente ainda não observado | Não avaliado |
-| Validação | Revisões guiadas e verificação remota pelo mentor | Não avaliado |
-| Comunicação | Explicação pessoal ainda não recebida | Não avaliado |
-| Transferência / retenção | Avaliação futura em variação e revisão posterior | Não avaliado |
+| Conceito | Dois exemplos simples respondidos após ensino e feedback | Aplicação com apoio; sem escore formal novo |
+| Implementação | Execução anterior guiada; nova variação própria ainda não realizada | Autonomia não verificada |
+| Depuração | Recuperação anterior guiada | Diagnóstico independente ainda não observado |
+| Validação | Revisões guiadas e verificações do mentor | Conferência própria em variação ainda pendente |
+| Comunicação | Respostas breves de aplicação; defesa ampla ainda não observada | Evidência restrita ao que foi respondido |
+| Transferência e retenção | Variação e revisão posterior ainda necessárias | Não verificadas |
+
+**Próxima ação:** conferir status/branch, remoto e histórico locais como apoio operacional. Depois de preservar/sincronizar o estado, apresentar uma pequena alteração inédita no README, com objetivo, critérios e ajuda permitida. O participante deve escolher e executar o fluxo, revisar a diferença, registrar e verificar o resultado. Documentação é permitida e deve ser declarada; não entregar a sequência completa antes da tentativa.
+
+Critérios da futura prática: alteração própria correspondente ao enunciado, conteúdo selecionado e revisto, mensagem de commit coerente, resultado local/remoto verificado e explicação das decisões. Uma falha ou variação deve ser tratada no escopo apropriado, sem criar incidente destrutivo. F0 e T001/T002 continuam em andamento.
 
 ## Rubrica aprovada
 

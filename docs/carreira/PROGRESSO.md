@@ -1,6 +1,6 @@
 # Histórico de execução e estado atual
 
-**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0001.
+**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0002.
 
 
 ## Como ler o registro
@@ -30,6 +30,14 @@ Um arquivo publicado é evidência de entrega. A autoria da implementação, o n
 | 25/10/2026 | Ajuste operacional da Etapa 7 | Aprendizagem ativa e registro de ajuda incorporados aos documentos e à planilha | Decisão explícita; avaliação de C06 aberta |
 | 25/10/2026 | CP-0001 de continuidade | Sete registros operacionais, índice de fontes públicas e manifesto de integridade em docs/carreira | Documentação produzida pelo mentor; não soma competência ou projeto de portfólio |
 
+## Recorte conceitual C06 — atualização CP-0002
+
+Após revisão orientada, houve aplicação correta dos exemplos de dois commits enviados por um único push e de e-mails A/B em commits criados antes/depois da mudança de configuração. O mentor forneceu a explicação, os exemplos e o ajuste de linguagem. Registrar **aplicação conceitual com apoio**; não é prova de autonomia, implementação, depuração ou retenção. Sem escore formal novo e sem competência ou marco aprovado.
+
+O próximo passo é uma conferência operacional do repositório local: branch/status, destino remoto e histórico recente. Com essa evidência, sincronizar a documentação se pertinente e só depois apresentar uma pequena alteração própria. O mentor não fornece de antemão a sequência completa da solução da avaliação pessoal.
+
+CP-0002 consolida este recorte e corrige o nome de fuso em AGENTS.md. O CP-0001 e os commits do exercício permanecem no histórico. Dados pessoais, transcrições privadas, caminhos locais e identidades de arquivos privados permanecem fora deste conteúdo público.
+
 ## Evidências e referências de versão
 
 | ID | Evidência | Classificação |
@@ -49,7 +57,7 @@ O repositório é público por escolha expressa do participante. Nos dois commit
 | ID | Escopo | Estado | Próxima evidência |
 | --- | --- | --- | --- |
 | T001 | C01: ambiente e execução | Em andamento | Explicar entrada/saída e reproduzir tarefa curta |
-| T002 | C06: registrar alteração e distinguir commit/push | Em andamento | Duas respostas pessoais da Sessão 02, passo 14; depois variação prática |
+| T002 | C06: registrar alteração e distinguir commit/push | Em andamento | Exemplos conceituais aplicados com apoio; conferir estado local e preparar variação própria |
 | T003 | C01/C06: reproduzir tarefa e corrigir erro | Planejada | Tentativa e diagnóstico próprios, em checkpoint posterior |
 | T006 | C01/C06: explicar e repetir variação | Planejada | Variação inédita, conferência e ajuda declarada |
 | T004 | F1 / C03/C21: fonte UCI, recorte e condições | Planejada | Ativar quando os pré-requisitos pertinentes forem observados |
@@ -63,7 +71,7 @@ T1–T5 da triagem inicial e T001–T006 do backlog são conjuntos diferentes. A
 | --- | --- |
 | Estudadas | C01 e C06 com apoio; C21 introduzida na privacidade do e-mail |
 | Demonstradas independentemente | Nenhuma validação independente registrada |
-| Ainda não verificadas | Autonomia, transferência e retenção de C01/C06/C21; demais competências sem avaliação |
+| Ainda não verificadas | Autonomia, transferência e retenção de C01/C06/C21; exemplos conceituais atuais tiveram apoio |
 | Projetos concluídos | Nenhum P01/P02; exercício Git publicado com apoio |
 | Certificações obtidas | Nenhuma comprovada neste roadmap |
 | Próximo marco de empregabilidade | M1, ainda pendente; F0 permanece aberta |
