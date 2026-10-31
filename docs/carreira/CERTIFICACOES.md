@@ -1,6 +1,6 @@
 # Estratégia e progresso de certificações
 
-**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0001.
+**Referência vigente:** 31/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0003. Histórico anterior preservado.
 
 
 **Obtidas ou comprovadas neste roadmap: nenhuma. Inscrições/compras executadas neste acompanhamento: nenhuma.** Este documento preserva a estratégia aprovada em 24/10/2026; o plano detalhado permanece no handoff privado. As referências públicas estão em [FONTES.md](FONTES.md).
@@ -34,3 +34,7 @@ Rótulos e códigos são referências do plano de 24/10/2026, sem nova auditoria
 Quando houver resultado: registrar nome e emissor exatos, código/versão quando pertinente, data, evidência pública permitida, validade, renovação e custo efetivamente autorizado. Dados de pagamento, documentos de identificação, tokens e credenciais ficam fora do repositório.
 
 Certificado de curso, badge e certificação profissional por exame são categorias diferentes. Curso concluído ou aprovação em prova não substitui demonstração prática. Não esperar exame para candidatar-se a uma oportunidade compatível.
+
+## Adendo aprovado em 31/10/2026
+
+K09/AI-103 já era candidata e permanece condicional à escolha de IA/Azure, prática e orçamento. Nenhuma prova paga nova foi acrescentada e nenhum gasto foi aprovado. Recursos gratuitos, certificados educacionais e laboratórios direcionados podem apoiar a aprendizagem, sem substituir avaliação independente. A certificação profissional AWS de IA generativa é apenas alternativa futura a reavaliar. Ver a comparação e fontes no [adendo](ADENDO_AGENTIC_AI_ENGINEERING.md).

@@ -1,6 +1,6 @@
 # Decisões e justificativas
 
-**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0001.
+**Referência vigente:** 31/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0003. Histórico anterior preservado.
 
 
 Este registro consolida decisões anteriores sem criar novas aprovações fictícias. As referências públicas constam em FONTES.md; as fontes privadas ficam no handoff completo. Instrução explícita mais recente do participante prevalece; registrar a alteração e sua justificativa antes de modificar o plano correspondente.
@@ -46,3 +46,15 @@ Documentação, verificações e correções reversíveis dentro do escopo já a
 - Benefício comercial dos projetos não é impacto medido.
 
 Quando uma decisão mudar, acrescentar ID/data, escolha, alternativas, motivo, evidência, responsável e consequência nos documentos afetados. Preservar a decisão substituída como histórica.
+
+## Decisões aprovadas em 31/10/2026
+
+| ID | Decisão aprovada | Alternativa e justificativa | Estado de execução |
+| --- | --- | --- | --- |
+| D17 | Agentes em blocos condicionais de F3/F4/F5, com sete subescopos e recursos AG-R | Evitar sobrecarga inicial e renumeração; aproveitar software/APIs/testes | Planejado; não avaliado |
+| D18 | X-IA preferencialmente sobre P02; preservar núcleos P01/P02 | Adiar P03 e integrações sem utilidade; pipeline continua determinístico | Projeto não iniciado |
+| D19 | K09 condicional; nenhuma prova paga adicional | Prática e oportunidade antes de compra | Sem inscrição ou gasto |
+| D20 | Usar endereço canônico matiasdotpy/fundamentos-git | Mesmo ID 1432812851; evitar referências atuais ao nome anterior | Revalidado; histórico preservado |
+| D21 | Registrar acréscimos condicionais sem alterar marcos iniciais | Base 64 h adicionais se tudo ativado; especialização ainda aberta | Controles de inclusão inicialmente em 0 |
+
+O [adendo](ADENDO_AGENTIC_AI_ENGINEERING.md) contém objetivos, exercícios, critérios e limites. A aprovação curricular não atribui domínio, horas realizadas ou escolha definitiva da especialização.

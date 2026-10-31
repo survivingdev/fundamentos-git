@@ -1,6 +1,6 @@
 # Competências e evidências de aprendizagem
 
-**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0002.
+**Referência vigente:** 31/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0003. Histórico anterior preservado.
 
 
 Nenhuma competência foi declarada dominada ou demonstrada de forma independente neste acompanhamento. C01/C06 tiveram prática guiada; C21 foi introduzida em um recorte. A geração destes documentos pelo mentor não comprova competência do participante.
@@ -63,7 +63,7 @@ Os pré-requisitos delimitam o mínimo da atividade, não uma sequência de trin
 | Comunicação | Respostas breves de aplicação; defesa ampla ainda não observada | Evidência restrita ao que foi respondido |
 | Transferência e retenção | Variação e revisão posterior ainda necessárias | Não verificadas |
 
-**Próxima ação:** conferir status/branch, remoto e histórico locais como apoio operacional. Depois de preservar/sincronizar o estado, apresentar uma pequena alteração inédita no README, com objetivo, critérios e ajuda permitida. O participante deve escolher e executar o fluxo, revisar a diferença, registrar e verificar o resultado. Documentação é permitida e deve ser declarada; não entregar a sequência completa antes da tentativa.
+**Próxima ação vigente:** Receber a seção própria “O que aprendi” no README, os comandos escolhidos para conferir arquivos e conteúdo alterados e suas saídas; parar antes de novo commit. Preservar a tentativa e a ajuda declarada. Não fornecer a sequência de comandos antes dela. A conferência e a sincronização guiadas anteriores já foram observadas. Documentação permitida, com ajuda declarada; registro e envio serão tratados depois desta primeira tentativa.
 
 Critérios da futura prática: alteração própria correspondente ao enunciado, conteúdo selecionado e revisto, mensagem de commit coerente, resultado local/remoto verificado e explicação das decisões. Uma falha ou variação deve ser tratada no escopo apropriado, sem criar incidente destrutivo. F0 e T001/T002 continuam em andamento.
 
@@ -80,3 +80,24 @@ Critérios da futura prática: alteração própria correspondente ao enunciado,
 Registrar conceito, implementação, depuração, validação e comunicação separadamente. Não inferir notas por ter executado comandos copiados. Uma média não pode esconder falha crítica. Domínio **no escopo** requer nível 3 e recuperação do conhecimento em revisão posterior. Horas, cursos, exames e arquivos publicados têm registros próprios e não aprovam competências automaticamente.
 
 Cada nova avaliação deve registrar: ID, data, competência/escopo, objetivo, exercício, ajuda permitida/recebida, tentativa original, evidência/commit, critérios observados, decisão e revisão pendente. Não é necessário criar uma nova escala ou uma prova de entrada.
+
+## Subescopos de agentes aprovados, não avaliados
+
+### 6.2 Subescopos aprovados, preservando C01–C30
+
+Os sufixos abaixo são **identificadores suplementares aprovados**, incluídos no sistema canônico sem renumerar C01–C30. Todos começam como **planejados / não avaliados**. Eles detalham capacidades novas ou aprofundamentos; não criam um novo currículo independente.
+
+| Subescopo | Conhecimento reaproveitado | Aprendizagem nova ou aprofundada | Evidência individual exigida |
+| --- | --- | --- | --- |
+| C27-A1 — Arquitetura e ferramentas | C13/C14/C27; structured outputs já previstos | Distinguir workflow/agente; schema de ferramentas; despacho; ciclo limitado e critérios de parada | Implementar ferramenta e variação de argumento; defender o limite e diagnosticar chamada inválida |
+| C27-A2 — Estado e contexto | Python, persistência e testes | Estado da execução versus histórico; sessão isolada; contexto selecionado; compactação; retomada | Recuperar execução interrompida e provar ausência de troca de contexto entre duas sessões |
+| C27-A3 — Avaliação de agentes | Baseline, casos reservados e avaliação de C27 | Resultado final versus trajetória; repetições; regressão; calibração de avaliadores | Criar avaliador verificável, analisar falha inédita e defender métrica sem usar só avaliação por LLM |
+| C19-A1 — Operação e manutenção de agentes | Logs, retries, alertas e recuperação de C19 | Traces correlacionados, triagem de falhas de ferramenta/modelo, limites e degradação controlada | Usar trace para localizar falha e demonstrar recuperação/reexecução coerente |
+| C26-A1 — Integração MCP | HTTP/JSON, validação, autenticação e serviços | Cliente/servidor, descrição de ferramentas, erros e transportes; autorização conforme exposição | Expor uma ferramenta de leitura e consumi-la por cliente, tratando argumento inválido e acesso indevido |
+| C21-A1 — Segurança de agentes | Segredos, minimização, permissões e casos adversos | Autorização executada pelo sistema, conteúdo não confiável, injeção indireta, confirmação de ações e isolamento | Criar teste adverso que detecte uma falha; justificar política de acesso que não depende de obedecer ao prompt |
+| C20-A1 — Releases de aplicações com agentes | C06/C13/C20; CI e rollback | Versão conjunta de código/prompt/modelo/tool schema/avaliação e configuração; índice quando existir | Reproduzir release, bloquear regressão crítica e retornar à versão conhecida |
+
+C28 continua condicional. Permissões na recuperação e identificação da versão documental entram como aprofundamento do escopo já existente, sem renumerá-lo.
+
+
+Consultar o [adendo](ADENDO_AGENTIC_AI_ENGINEERING.md) para E08-A1/A2/A3 e rastreabilidade. Registrar subescopo na competência Cxx correspondente sem aprovar automaticamente os demais. Estado de todos os sete: planejado; nenhuma demonstração independente.

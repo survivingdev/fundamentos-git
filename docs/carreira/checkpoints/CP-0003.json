@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "checkpoint_id": "CP-0003",
+  "previous_checkpoint": "CP-0002",
+  "previous_checkpoint_commit": "58c385d0bb76ab55440fcf37e91c75b1c1e011dc",
+  "created_at": "2026-10-31T12:09:52-03:00",
+  "timezone": "America/Sao_Paulo",
+  "kind": "Integração curricular aprovada de Agentic AI Engineering; não é avaliação de competência",
+  "created_by": "mentor com IA; documentação autorizada",
+  "repository": "matiasdotpy/fundamentos-git",
+  "repository_id": 1432812851,
+  "branch": "main",
+  "parent_commit": "58c385d0bb76ab55440fcf37e91c75b1c1e011dc",
+  "version_identity": "Commit Git que contém este manifesto; não armazenado dentro de si.",
+  "state": {
+    "stage": "Etapa 7",
+    "phase": "F0",
+    "session": "02",
+    "step": "receber alteração própria e conferência de diferenças no README, antes de commit",
+    "task_ids_in_progress": [
+      "T001",
+      "T002"
+    ],
+    "conditional_backlog_ids": [
+      "T026",
+      "T027",
+      "T028"
+    ],
+    "studied_with_assistance": [
+      "C01",
+      "C06"
+    ],
+    "introduced_scope": "C21: privacidade de e-mail",
+    "independently_validated_competencies": [],
+    "planned_agent_subscopes": [
+      "C27-A1",
+      "C27-A2",
+      "C27-A3",
+      "C19-A1",
+      "C26-A1",
+      "C21-A1",
+      "C20-A1"
+    ],
+    "agent_scopes_studied": [],
+    "agent_scopes_evaluated": [],
+    "completed_portfolio_projects": [],
+    "certifications_obtained_in_roadmap": [],
+    "approved_milestones": [],
+    "next_employability_milestone": "M1, pendente",
+    "next_action": "Receber texto próprio, comandos escolhidos e saídas da conferência da pequena alteração no README; parar antes de commit. Não fornecer solução antes da tentativa.",
+    "unknown": [
+      "duração real",
+      "implementação independente",
+      "transferência e retenção",
+      "eventuais alterações locais após o último retorno"
+    ]
+  },
+  "approval": {
+    "date": "2026-10-31",
+    "status": "escopo aprovado explicitamente pelo participante",
+    "scope": "blocos condicionais F3/F4/F5, subescopos, recursos, X-IA/P02 e K09 condicional; sem nova compra ou avaliação"
+  },
+  "evidence": {
+    "exercise_commits": [
+      "bea15d9c0867cab84899848c636bd9fb842a90a7",
+      "cda0f3326a28a901cc366e74b0eda34888ee6c9e"
+    ],
+    "preserved_root_readme_blob": "4e1ff54300b87f188ad9de9749403010d8fc4e96",
+    "local_sync": "retorno posterior ao CP-0002 confirmou main/origin-main em 58c385d, árvore limpa e histórico anterior preservado; observação histórica, não operação remota no computador",
+    "assessment_mode": "nenhum novo escore ou domínio",
+    "resources_reference": "ADENDO_AGENTIC_AI_ENGINEERING.md: referências AGVxx e AG-Rxx, consulta de 31/10/2026"
+  },
+  "privacy_scope": "Somente fontes públicas e estado de aprendizagem autorizado; caminhos, restrições e identidades de arquivos privados permanecem no handoff privado.",
+  "files": [
+    {
+      "path": "ADENDO_AGENTIC_AI_ENGINEERING.md",
+      "size_bytes": 33038,
+      "sha256": "2412687a021c5803bc49cc9c3fc414b7eb666ba4876bc4f781f468feb27bd1e7"
+    },
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 6211,
+      "sha256": "8280249fff502d10f756f6474ed02681ff8a3bcc91ae979b505a012f200b8db4"
+    },
+    {
+      "path": "CERTIFICACOES.md",
+      "size_bytes": 3927,
+      "sha256": "a40e0ca10a8a6db6a793c1428412fb046caeb625c0e2f8762ca8f04518ea3c6e"
+    },
+    {
+      "path": "COMPETENCIAS.md",
+      "size_bytes": 10465,
+      "sha256": "e48ed9a69c59bdbf236e6d9fa6c79e5f3829ac521e0ec7c4937b61daa3a1f0e8"
+    },
+    {
+      "path": "DECISOES.md",
+      "size_bytes": 7007,
+      "sha256": "7a990528a8bb3398600ea593dfbf20206e7090616e7474086ee940c66a31dca1"
+    },
+    {
+      "path": "FONTES.md",
+      "size_bytes": 2857,
+      "sha256": "702451749661494120f9d35417c934f56aedff7fa006eeb2acc8426dae79d22a"
+    },
+    {
+      "path": "HANDOFF.md",
+      "size_bytes": 5296,
+      "sha256": "1a7e5e825aba073e196be18f6288c66cb10c8d7a53cdd1f4d40f9ddd966ee507"
+    },
+    {
+      "path": "PORTFOLIO.md",
+      "size_bytes": 5382,
+      "sha256": "32c3ed844e8936d63eb0fa719a963a1c0295c0dd0dc0f1e1998f72d189e00a06"
+    },
+    {
+      "path": "PROGRESSO.md",
+      "size_bytes": 9675,
+      "sha256": "45f9dea859370b32d2891b257908a5b2632d95b28ddbc44250fece1580b931ea"
+    },
+    {
+      "path": "ROADMAP.md",
+      "size_bytes": 8743,
+      "sha256": "db5a6af272d41f6d42afa98efae6f9b65fbaaeeac02e1f8de68333ed87b6e569"
+    },
+    {
+      "path": "scripts/verificar_checkpoint.py",
+      "size_bytes": 2020,
+      "sha256": "245f1347df07673a5a18bf6b84382ba989207de89c59f25c5f7548faaf344f9b"
+    }
+  ],
+  "verification": {
+    "local_command": "python docs/carreira/scripts/verificar_checkpoint.py docs/carreira/checkpoints/CP-0003.json",
+    "scope": "Integridade dos registros públicos; não comprova competência ou estado atual do computador."
+  }
+}

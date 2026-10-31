@@ -1,6 +1,6 @@
 # Carreira Data & AI — planejamento mestre
 
-**Referência:** 25/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0002.
+**Referência vigente:** 31/10/2026 · Etapa 7 / F0 / Sessão 02 · CP-0003. Histórico anterior preservado.
 
 
 Objetivo: construir empregabilidade em dados, automação e inteligência artificial por competência demonstrável, com projetos próprios e candidaturas compatíveis durante a formação. Esta é a visão operacional do plano aprovado nas Etapas 0–6. As fontes públicas estão em [FONTES.md](FONTES.md). O planejamento detalhado permanece no registro privado de retomada.
@@ -16,7 +16,7 @@ Não há reinício por troca de conversa. Etapas 0–6 organizam o planejamento;
 
 ## Fases e critérios de avanço
 
-| Fase | Entrega e foco | Critério principal | Estado em CP-0001 |
+| Fase | Entrega e foco | Critério principal | Estado corrente |
 | --- | --- | --- | --- |
 | F0 | Ambiente, arquivos, terminal, Git e documentação | Executar e explicar tarefa; identificar entrada/saída, corrigir erro simples, registrar/sincronizar mudança e reproduzir | Em andamento; exemplos conceituais de C06 aplicados com apoio; preparar prática própria |
 | F1 | P01-A: análise inicial de desempenho comercial | Fonte/grão, agregação/JOIN, três indicadores, visual simples, conferência, conclusão e limite | Planejada; prepara M1 |
@@ -90,3 +90,9 @@ Candidaturas compatíveis podem começar antes de M1 e de certificações. Confe
 Manter uma entrega principal ativa. Mentor: pesquisa, organização, revisão, testes e documentação. o participante: raciocínio, tentativas, componentes fundamentais, diagnóstico, conferência e defesa. Registrar toda ajuda. Não fornecer solução pronta de avaliação individual.
 
 O próximo passo exato está em [HANDOFF.md](HANDOFF.md). Progresso, decisões e verificações são mantidos nos documentos vizinhos e em checkpoints versionados. A arquitetura aprovada continua válida; uma mudança estrutural de rota, carga ou investimento exige decisão explícita registrada em [DECISOES.md](DECISOES.md).
+
+## Adendo de agentes aprovado
+
+Ver [ADENDO_AGENTIC_AI_ENGINEERING.md](ADENDO_AGENTIC_AI_ENGINEERING.md) para auditoria, subescopos, recursos, exercícios e matriz. F3 recebe fundamentos após Python/APIs/testes; F4 recebe operação/confiabilidade; F5/X-IA pode aprofundar AI Agent Engineering. São blocos condicionais, planejados e não avaliados.
+
+Acréscimos de 12–20, 16–24 e 20–36 h (base 16/20/28), total de 48–80 h. As reservas originais acima continuam como núcleo. Incluir acréscimos uma única vez quando ativados, dentro da capacidade aprovada. M1/M2 e M3 de dados mantêm seus critérios; operação de agentes pode ficar após M3. A especialização final continua aberta. P01/P02 e K09 mantêm seus IDs e condições.
